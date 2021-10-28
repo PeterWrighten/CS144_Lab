@@ -8,4 +8,4 @@ The Lectures of CS144 please check:
 
 |Lab Note|Solution|
 |:--:|:--:|
-|[Lab 0: warmUp]()  |  [L0]() |
+|[Lab 0: warmUp](https://github.com/PeterWrighten/CS144_Lab/blob/main/LAB0/README.md)  |  [L0](https://github.com/PeterWrighten/CS144_Lab/tree/main/LAB0) |
