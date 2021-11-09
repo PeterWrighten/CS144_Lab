@@ -21,7 +21,7 @@ void get_URL(const string &host, const string &path) {
     TCPSocket tcp;
     tcp.connect(addr);
     tcp.write("GET "+ path + " HTTP/1.1\r\n");
-    tcp.write("HOST: "+ host +"\r\n");
+    tcp.write("Host: "+ host +"\r\n");
     tcp.write("Connection: close\r\n");
     tcp.write("\r\n");
     while(!tcp.eof()){
