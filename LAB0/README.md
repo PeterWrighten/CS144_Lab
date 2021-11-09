@@ -24,5 +24,17 @@ Linux Command:
 
 ## 2. Send yourself an email
 
+Because I could not use Stanford Service, So could not do it.
 
 ## 3. Listening and connecting
+
+Use ```netcat``` program.
+
+```$cs144@vm~: netcat -v -l -p 9090 ```
+
+```$cs144@vm~: telnet localhost 9090```
+
+
+## 4. Program: webget
+
+> Cmake Sponge lib in Linux.
